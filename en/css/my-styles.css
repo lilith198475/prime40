@@ -100,7 +100,7 @@ body {
 
 .navbar-default .navbar-nav li{
     background: url('../img/seperator.png') no-repeat right top;
-    padding-right: 5px;
+    padding-right: 0px;
 }
 
 
@@ -541,7 +541,8 @@ address p a:hover{
         color: #ddd; 
         font-size: 0.9em;
         font-weight: bold;
-        padding: 10px 4px; 
+        padding-left: 5px;
+        padding-right: 7px;
     
     }
     
@@ -550,12 +551,12 @@ address p a:hover{
     }
     
     .navbar-default .navbar-nav li{
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
 
     .navbar-default .navbar-nav .smallsize a{
-        font-size: 0.7em;
+        font-size: 0.9em;
     }
 
     .triangle-auto h4{
